@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link"
+			],
+			[
+				"y",
+				"skyblue"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"d",
+				"darkolivegreen"
+			],
+			[
+				"g",
+				"gold"
+			],
+			[
+				"ye",
+				"yellowgreen"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"de",
+				"Desktop"
+			],
+			[
+				"white",
+				"antiquewhite"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"gray",
+				"darkgray"
+			],
+			[
+				"bro",
+				"border"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"font",
+				"font-display"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-display"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"brod",
+				"border"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fot-a",
+				"font-display"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"UTF-8\">\n  \n    <link rel=\"stylesheet\" href=\"style.css\">\n    <!-- Boxicons CDN Link -->\n    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n   </head>\n<body>\n  <nav>\n    <div class=\"navbar\">\n      <i class='bx bx-menu'></i>\n      <div class=\"logo\"><a href=\"#\">CodingLab</a></div>\n      <div class=\"nav-links\">\n        <div class=\"sidebar-logo\">\n          <span class=\"logo-name\">CodingLab</span>\n          <i class='bx bx-x' ></i>\n        </div>\n        <ul class=\"links\">\n          <li><a href=\"#\">HOME</a></li>\n          <li>\n            <a href=\"#\">HTML & CSS</a>\n            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>\n            <ul class=\"htmlCss-sub-menu sub-menu\">\n              <li><a href=\"#\">Web Design</a></li>\n              <li><a href=\"#\">Login Forms</a></li>\n              <li><a href=\"#\">Card Design</a></li>\n              <li class=\"more\">\n                <span><a href=\"#\">More</a>\n                <i class='bx bxs-chevron-right arrow more-arrow'></i>\n              </span>\n                <ul class=\"more-sub-menu sub-menu\">\n                  <li><a href=\"#\">Neumorphism</a></li>\n                  <li><a href=\"#\">Pre-loader</a></li>\n                  <li><a href=\"#\">Glassmorphism</a></li>\n                </ul>\n              </li>\n            </ul>\n          </li>\n          <li>\n            <a href=\"#\">JAVASCRIPT</a>\n            <i class='bx bxs-chevron-down js-arrow arrow '></i>\n            <ul class=\"js-sub-menu sub-menu\">\n              <li><a href=\"#\">Dynamic Clock</a></li>\n              <li><a href=\"#\">Form Validation</a></li>\n              <li><a href=\"#\">Card Slider</a></li>\n              <li><a href=\"#\">Complete Website</a></li>\n            </ul>\n          </li>\n          <li><a href=\"#\">ABOUT US</a></li>\n          <li><a href=\"#\">CONTACT US</a></li>\n        </ul>\n      </div>\n      <div class=\"search-box\">\n        <i class='bx bx-search'></i>\n        <div class=\"input-box\">\n          <input type=\"text\" placeholder=\"Search...\">\n        </div>\n      </div>\n    </div>\n  </nav>\n  <script src=\"script.js\"></script>\n</body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 2473,
+			"file_write_time": 133084045767127887,
+			"settings":
+			{
+				"buffer_size": 2269,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIoAAAAAAAAAigAAAAAAAABKAAAAIDwhLS0gPHRpdGxlPiBSZXNwb25zaXZlIERyb3AgRG93biBOYXZpZ2F0aW9uIE1lbnUgfCBDb2RpbmdMYWIgPC90aXRsZT4tLT4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADUAAAAAAAAAIoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAABAAAAAAAAAAEAAAAAAAAAA4AAAAPCEtLSBDcmVhdGVkIEJ5IENvZGluZ05lcGFsIC0gd3d3LmNvZGluZ25lcGFsd2ViLmNvbSAtLT4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAABAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/project/script.js",
+		"/C/Users/Asim khanal/Desktop/p/style.css",
+		"/C/Users/Asim khanal/Desktop/p/script.js",
+		"/C/Users/Asim khanal/Desktop/p/index.html",
+		"/E/shl/notice.html",
+		"/E/shl/javascript/login.js",
+		"/E/shl/javascript/js.js",
+		"/E/shl/css/style.css",
+		"/E/shl/index.html",
+		"/E/project2/index.html",
+		"/E/shl/course.html",
+		"/C/Users/Asim khanal/Desktop/new project/script.js",
+		"/C/Users/Asim khanal/Desktop/new project/style.css",
+		"/C/Users/Asim khanal/Desktop/new project/index.html",
+		"/E/project/index.html",
+		"/C/Users/Asim khanal/Desktop/project1/index.html",
+		"/C/Users/Asim khanal/Desktop/project1/style.css",
+		"/C/Users/Asim khanal/Desktop/project2/staff.jpg",
+		"/C/Users/Asim khanal/Desktop/navdesign/asim.html",
+		"/C/Users/Asim khanal/Desktop/don dai/moti.html",
+		"/C/Users/Asim khanal/Desktop/html/index.html",
+		"/C/Users/Asim khanal/Desktop/html/style.css",
+		"/C/Users/Asim khanal/Desktop/navdesign/khanal.css",
+		"/C/Users/Asim khanal/Desktop/webdesign/style.css",
+		"/C/Users/Asim khanal/Desktop/webdesign/index.html",
+		"/C/Users/Asim khanal/Desktop/281437631_3255026021448017_6953897617803995225_n.jpg",
+		"/C/Users/Asim khanal/Desktop/website design/design.html",
+		"/C/Users/Asim khanal/Desktop/website design/asim.css",
+		"/C/Users/Asim khanal/Desktop/html/asim.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
